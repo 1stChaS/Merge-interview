@@ -4,6 +4,11 @@ Merge two ascending arrays and one descending array into a single sorted array b
 
 ## How to setup dependency and execute code and unit test
 
+make sure you are at merge-interview file
+```bash
+    cd merge-interview
+```
+
 ### 1. Install Dependencies
 ```bash
 npm install
