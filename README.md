@@ -6,7 +6,7 @@ Merge two ascending arrays and one descending array into a single sorted array b
 
 ### 1. Make sure you are at merge-interview file
 ```bash
-cd merge-interview
+cd Merge-interview
 ```
 
 ### 2. Install Dependencies
